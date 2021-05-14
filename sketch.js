@@ -55,7 +55,7 @@ function keyPressed(){
         tom.changeAnimation("tomRunning");
         
         jerry.addAnimation("jerryTeasing", jerryImg2);
-        jerry.frameDelay = 25;
+      
         jerry.changeAnimation("jerryTeasing");
     }
 }
